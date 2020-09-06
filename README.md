@@ -1,6 +1,6 @@
 # CupCakeShop
 
-Setp to Start Frontend and Backend Server.
+Sets to Start Frontend and Backend Server.
 
 1) Clone the repo
 2) Start the Backend
