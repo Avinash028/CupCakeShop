@@ -13,7 +13,9 @@ Setp to Start Frontend and Backend Server.
   
    iv) cd backend
    
-    v) node app.js
+   v) node app.js
+   
+    
     
 3) Start the Frontend
 
@@ -25,7 +27,7 @@ Setp to Start Frontend and Backend Server.
   
    iv) cd cup-cake-online
    
-    v) npm install
+   v) npm install  
     
    vi) npm start 
     
